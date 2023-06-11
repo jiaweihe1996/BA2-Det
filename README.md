@@ -52,4 +52,4 @@ P3DTrack:
 ```
 ## Acknowledgement
 The authors thank these great works:
-[FSD](https://github.com/tusen-ai/SST),[SAM](https://github.com/facebookresearch/segment-anything),[COLMAP](https://github.com/colmap/colmap),[hloc](https://github.com/cvg/Hierarchical-Localization), [SuperGlue](https://github.com/magicleap/SuperGluePretrainedNetwork),[LoFTR](https://github.com/zju3dv/LoFTR).
+[FSD](https://github.com/tusen-ai/SST), [LSMOL](https://github.com/Robertwyq/LSMOL), [SAM](https://github.com/facebookresearch/segment-anything),[COLMAP](https://github.com/colmap/colmap),[hloc](https://github.com/cvg/Hierarchical-Localization), [SuperGlue](https://github.com/magicleap/SuperGluePretrainedNetwork),[LoFTR](https://github.com/zju3dv/LoFTR).
