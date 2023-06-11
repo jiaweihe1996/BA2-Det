@@ -1,13 +1,10 @@
 <div align="center">
 <h1>BA<sup>2</sup>-Det</h1>
 <h3>2D Supervised Monocular 3D Object Detection by Global-to-Local 3D Reconstruction</h3>
-<h3><a href="https://jiaweihe.com/">Jiawei He</a>, <a href="https://robertwyq.github.io/">Yuqi Wang</a>,<a href="https://scholar.google.com/citations?user=iLOoUqIAAAAJ">Yuntao Chen</a>, <a href="https://zhaoxiangzhang.net/">Zhaoxiang Zhang</a>
-<br/>
 <h3>  [<a href="https://arxiv.org/abs/2306.05418">arXiv</a>] [<a href="https://ba2det.site/">Project Page</a>]
 </div>
 
 ### A joint work: video-based 3D representation for 2D MOT [[arXiv](https://arxiv.org/abs/2306.05416)]
-[Jiawei He](https://jiaweihe.com/), [Lue Fan](https://lue.fan/), [Yuqi Wang](https://robertwyq.github.io/), [Yuntao Chen](https://scholar.google.com/citations?user=iLOoUqIAAAAJ), [Zehao Huang](https://scholar.google.com/citations?user=zXqeKPgAAAAJ), [Naiyan Wang](https://winsty.net/), [Zhaoxiang Zhang](https://zhaoxiangzhang.net/)
 
 ## Abstract
 ***TL;DR: We propose a novel 2D supervised monocular 3D object detection paradigm, leveraging the idea of global (scene-level) to local (instance-level) 3D reconstruction.***
